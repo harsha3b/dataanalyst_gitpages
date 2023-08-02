@@ -1,0 +1,2 @@
+export JEKYLL_GITHUB_TOKEN=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
+export SSL_CERT_FILE=C:\Users\harsh\Desktop\testpages\harsha3b.github.io\cacert.pem
